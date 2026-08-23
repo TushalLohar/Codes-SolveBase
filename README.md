@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 925**
+**Total solved: 926**
 
 ## Codeforces
 
@@ -34,7 +34,7 @@ Solutions by [Tushal_007](https://codeforces.com/profile/Tushal_007), organized 
 
 Solutions organized by primary topic folder.
 
-**Solved: 194**
+**Solved: 195**
 
 | Topic | Solved |
 | --- | --- |
@@ -52,7 +52,7 @@ Solutions organized by primary topic folder.
 | [segment-tree](./leetcode/segment-tree) | 2 |
 | [sliding-window](./leetcode/sliding-window) | 5 |
 | [stack](./leetcode/stack) | 2 |
-| [string](./leetcode/string) | 15 |
+| [string](./leetcode/string) | 16 |
 | [trie](./leetcode/trie) | 2 |
 | [two-pointers](./leetcode/two-pointers) | 19 |
 | [union-find](./leetcode/union-find) | 1 |
@@ -115,5 +115,5 @@ Solutions organized by difficulty level.
 | [Easy](./geeksforgeeks/Easy) | 7 |
 
 
-_Last updated: 2026-08-22_
+_Last updated: 2026-08-23_
 <!-- /cf-sync -->
