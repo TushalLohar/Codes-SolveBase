@@ -1,8 +1,8 @@
 class MyHashSet {
     vector<bool> nums;
 public:
-    MyHashSet() {
-        nums.resize(1000001,false);
+    MyHashSet(): nums(10000001,false) {
+        
         
     }
     
