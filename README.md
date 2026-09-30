@@ -3,19 +3,19 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 998**
+**Total solved: 999**
 
 ## Codeforces
 
 Solutions by [Tushal_007](https://codeforces.com/profile/Tushal_007), organized by difficulty rating.
 
-**Solved: 600**
+**Solved: 601**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 204 |
 | [900](./codeforces/900) | 73 |
-| [1000](./codeforces/1000) | 65 |
+| [1000](./codeforces/1000) | 66 |
 | [1100](./codeforces/1100) | 45 |
 | [1200](./codeforces/1200) | 52 |
 | [1300](./codeforces/1300) | 72 |
